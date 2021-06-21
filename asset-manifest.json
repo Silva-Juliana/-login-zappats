@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/login-zappats/static/css/main.17966253.chunk.css",
-    "main.js": "/login-zappats/static/js/main.08bb6934.chunk.js",
-    "main.js.map": "/login-zappats/static/js/main.08bb6934.chunk.js.map",
-    "runtime-main.js": "/login-zappats/static/js/runtime-main.8f415b20.js",
-    "runtime-main.js.map": "/login-zappats/static/js/runtime-main.8f415b20.js.map",
-    "static/js/2.a7e281cd.chunk.js": "/login-zappats/static/js/2.a7e281cd.chunk.js",
-    "static/js/2.a7e281cd.chunk.js.map": "/login-zappats/static/js/2.a7e281cd.chunk.js.map",
-    "static/js/3.922b3ecd.chunk.js": "/login-zappats/static/js/3.922b3ecd.chunk.js",
-    "static/js/3.922b3ecd.chunk.js.map": "/login-zappats/static/js/3.922b3ecd.chunk.js.map",
-    "index.html": "/login-zappats/index.html",
-    "static/css/main.17966253.chunk.css.map": "/login-zappats/static/css/main.17966253.chunk.css.map",
-    "static/js/2.a7e281cd.chunk.js.LICENSE.txt": "/login-zappats/static/js/2.a7e281cd.chunk.js.LICENSE.txt",
-    "static/media/slider.scss": "/login-zappats/static/media/telecommuting.3e709d63.png",
-    "static/media/logo-google.c3d26fca.svg": "/login-zappats/static/media/logo-google.c3d26fca.svg"
+    "main.css": "/login-zappats-prod/static/css/main.92492694.chunk.css",
+    "main.js": "/login-zappats-prod/static/js/main.08bb6934.chunk.js",
+    "main.js.map": "/login-zappats-prod/static/js/main.08bb6934.chunk.js.map",
+    "runtime-main.js": "/login-zappats-prod/static/js/runtime-main.eaaa740a.js",
+    "runtime-main.js.map": "/login-zappats-prod/static/js/runtime-main.eaaa740a.js.map",
+    "static/js/2.a7e281cd.chunk.js": "/login-zappats-prod/static/js/2.a7e281cd.chunk.js",
+    "static/js/2.a7e281cd.chunk.js.map": "/login-zappats-prod/static/js/2.a7e281cd.chunk.js.map",
+    "static/js/3.922b3ecd.chunk.js": "/login-zappats-prod/static/js/3.922b3ecd.chunk.js",
+    "static/js/3.922b3ecd.chunk.js.map": "/login-zappats-prod/static/js/3.922b3ecd.chunk.js.map",
+    "index.html": "/login-zappats-prod/index.html",
+    "static/css/main.92492694.chunk.css.map": "/login-zappats-prod/static/css/main.92492694.chunk.css.map",
+    "static/js/2.a7e281cd.chunk.js.LICENSE.txt": "/login-zappats-prod/static/js/2.a7e281cd.chunk.js.LICENSE.txt",
+    "static/media/slider.scss": "/login-zappats-prod/static/media/telecommuting.3e709d63.png",
+    "static/media/logo-google.c3d26fca.svg": "/login-zappats-prod/static/media/logo-google.c3d26fca.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f415b20.js",
+    "static/js/runtime-main.eaaa740a.js",
     "static/js/2.a7e281cd.chunk.js",
-    "static/css/main.17966253.chunk.css",
+    "static/css/main.92492694.chunk.css",
     "static/js/main.08bb6934.chunk.js"
   ]
 }
